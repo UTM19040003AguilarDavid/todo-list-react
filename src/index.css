@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.delete-button {
+    background-color: red;
+    color: white;
+    padding: 5px 12px;
+    border-radius: 10px;
+    margin-left: 15px;
+  }
+  
